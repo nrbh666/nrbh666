@@ -1,8 +1,11 @@
-- 📚 I'm currently working on a masters in library and information science
+Hi! I'm Norah 🎣 I'm a Pisces ♓️ A Philadelphia Zoo Member 🦧 And I love the ocean 🌊
+- 📚 I'm currently in the MLIS program at Drexel
 - 🌃 I'm a big Sixers/Eagles fan
-- 🧶 I love learning new fibers processes and techniques 
+- 🧶 I'm an experienced knitter and working towards becoming ~*advanced*~
 - 🍀 I knock on wood all the time
+- 🎲 I'm currently very into Pokémon TCGP and collecting cards
 - 🧸 Pronouns: SHE / HER
+<p>If you want to learn more about Pokémon TCG Data Click <a href="https://github.com/PokemonTCG/pokemon-tcg-data">HERE!</a>
 
 <!--
 ## Hi there 👋
