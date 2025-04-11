@@ -1,8 +1,8 @@
-Hi! I'm Norah 🎣 I'm a Pisces ♓️ A Philadelphia Zoo Member 🦧 And I love the ocean 🌊
-- 📚 I'm currently in the MLIS program at Drexel
-- 🌃 I'm a big Sixers/Eagles fan
-- 🧶 I'm an experienced knitter and working towards becoming ~*advanced*~
+Hi! I'm <em><strong>NORAH</em></strong> 🎣 I'm a Pisces ♓️ A Philadelphia Zoo member 🦧 And I love the ocean 🌊
+- 📚 I'm currently in the <strong>MLIS</strong> program at Drexel
+- 🎲 I love sports
+- 🧶 I'm an 🌸<em>experienced</em>🌸 knitter and working towards becoming ✨<em>advanced</em>✨
 - 🍀 I knock on wood all the time
-- 🎲 I'm currently very into Pokémon TCGP and collecting cards
-- 🧸 Pronouns: SHE / HER
+- 🧸 Pronouns: <em>SHE / HER</em>
 <p>I love <strong><em><a href="https://github.com/PokemonTCG/pokemon-tcg-data">POKéMON</a></em></strong> and <strong><em><a href="https://github.com/advplyr/audiobookshelf">AUDIOBOOKS</a></em></strong></p>
+<p><strong><em>🏉 GO BIRDS!! 🏀 GO SIXERS!! ⚾️ VAMOS LOS METS!! 🏒 DEVILS4EVER!!</em></strong></p>
