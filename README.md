@@ -1,6 +1,11 @@
-## Hi there 👋
+- 📚 I'm currently working on a masters in library and information science
+- 🌃 I'm a big Sixers/Eagles fan
+- 🧶 I love learning new fibers processes and techniques 
+- 🍀 I knock on wood all the time
+- 🧸 Pronouns: SHE / HER
 
 <!--
+## Hi there 👋
 **nrbh666/nrbh666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
