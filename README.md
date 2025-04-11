@@ -5,7 +5,7 @@ Hi! I'm Norah 🎣 I'm a Pisces ♓️ A Philadelphia Zoo Member 🦧 And I love
 - 🍀 I knock on wood all the time
 - 🎲 I'm currently very into Pokémon TCGP and collecting cards
 - 🧸 Pronouns: SHE / HER
-<p>If you want to learn more about Pokémon TCG Data Click <a href="https://github.com/PokemonTCG/pokemon-tcg-data">HERE!</a>
+<p>I love <a href="https://github.com/PokemonTCG/pokemon-tcg-data">POKéMON</a> and <a href="https://github.com/advplyr/audiobookshelf">AUDIOBOOKS</a></p>
 
 <!--
 ## Hi there 👋
